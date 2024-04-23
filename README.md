@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrookedCrowe
 - 👀 I’m interested in ... reptile keeping, improving my coding abiities, and reading.
-- 🌱 I’m currently learning ... Java, HTML, CSS, and Javascript.
+- 🌱 I’m currently learning ... Java, C++, Unreal Engine 5, and Cybersecurity.
 - 📫 How to reach me ... discord with my username CrookedCrowe#1652
 
 <!---
